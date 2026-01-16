@@ -1,11 +1,13 @@
-# Privacy Policy
+
+Privacy Policy for LinearQuiz
 
 Last updated: January 2026
 
-Bytesnote does not collect, store, or share any personal data.
+LinearQuiz does not collect, store, use, or share any personal or sensitive user data.
 
-## Information Collection
-Bytesnote does not collect:
+Information Collection and Use
+
+LinearQuiz does not collect any information, including but not limited to:
 - IP addresses
 - Names
 - Email addresses
@@ -13,16 +15,21 @@ Bytesnote does not collect:
 - Location data
 - Usage analytics
 
-All data created in the app remains on the user’s device.
+All functionality of the app works offline, and all data remains on the user’s device.
 
-## Third-Party Services
-Bytesnote does not use third-party services that collect user data.
+Third-Party Services
 
-## Children’s Privacy
-Bytesnote does not knowingly collect personal information from children under 13.
+LinearQuiz does not use third-party services that collect user data.
 
-## Changes to This Policy
+Age Requirement
+
+LinearQuiz is intended for users aged 18 years and above. The app does not target children and does not knowingly collect any personal information from minors.
+
+Changes to This Privacy Policy
+
 Any changes to this Privacy Policy will be posted on this page.
 
-## Contact
-If you have questions about this Privacy Policy, contact: databytesictsolutionsnigerialt@gmail.com
+Contact Us
+
+If you have any questions about this Privacy Policy, you may contact us at:
+linearjephltd@gmail.com
